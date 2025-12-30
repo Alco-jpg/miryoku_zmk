@@ -1,4 +1,4 @@
-name: 'Build Example with mouse support'
+name: 'Build galium with mouse support'
 on: workflow_dispatch
 jobs:
   build:
